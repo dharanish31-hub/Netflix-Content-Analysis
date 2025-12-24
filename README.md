@@ -1,2 +1,1 @@
-# Netflix-Content-Analysis
-End-to-end Netflix data analysis using Python, SQL
+The cleaned dataset (netflix_cleaned.csv) was generated using Python after handling missing values, duplicates, and date formatting.
